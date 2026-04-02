@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "tsmc",
+    "name": "台積電",
+    "ticker": "2330.TW",
+    "segment": "晶片與先進製程",
+    "role": "先進製程 / CoWoS / 先進封裝",
+    "summary": "AI 晶片需求最終還是會回到先進製程與封裝產能，台積電是整條鏈最核心的上游節點。",
+    "positioning": "用來觀察 AI 晶片需求、CoWoS 產能與高階封裝供給。",
+    "focus": "CoWoS 擴產、先進封裝排程、AI GPU 客戶需求。",
+    "keywords": [
+      "CoWoS",
+      "先進封裝",
+      "AI GPU",
+      "HBM"
+    ],
+    "watch_items": [
+      "先進封裝產能擴充速度",
+      "NVIDIA / AMD 等 AI 晶片客戶動向",
+      "高階製程與封裝交期",
+      "市場對 AI 晶片需求的修正"
+    ],
+    "supply_chain_links": [
+      "上游接 AI 晶片需求與高階封裝",
+      "中游會影響廣達、緯創等伺服器組裝節奏",
+      "對 HBM 與散熱升級需求也有間接帶動"
+    ],
+    "recent_angles": [
+      "CoWoS 與先進封裝被視為 AI 供應鏈瓶頸",
+      "AI 晶片需求能見度仍高",
+      "產能配置與客戶排序會影響整條供應鏈評價"
+    ],
+    "detail_link": "./company.html?slug=tsmc"
+  },
+  {
+    "slug": "quanta",
+    "name": "廣達",
+    "ticker": "2382.TW",
+    "segment": "AI 伺服器組裝",
+    "role": "AI Server ODM / 機櫃整合",
+    "summary": "廣達是觀察 AI 伺服器出貨、系統整合與雲端客戶資本支出的代表公司之一。",
+    "positioning": "用來看 AI 伺服器整機出貨與大型雲端客戶需求。",
+    "focus": "AI server 出貨、機櫃方案、CSP 資本支出。",
+    "keywords": [
+      "AI Server",
+      "ODM",
+      "CSP",
+      "機櫃"
+    ],
+    "watch_items": [
+      "AI 伺服器營收占比",
+      "大型雲端客戶拉貨節奏",
+      "機櫃與整機方案的 ASP 變化",
+      "AI 訂單能否延續到下一年度"
+    ],
+    "supply_chain_links": [
+      "上游仰賴台積電與晶片供貨",
+      "下游連到散熱、電源與機構件供應商",
+      "通常可與緯創、英業達一起比較"
+    ],
+    "recent_angles": [
+      "AI 伺服器仍是市場最關心的成長主線",
+      "整機方案與高 ASP 機櫃是觀察重點",
+      "伺服器拉貨速度會影響零組件評價"
+    ],
+    "detail_link": "./company.html?slug=quanta"
+  },
+  {
+    "slug": "wistron",
+    "name": "緯創",
+    "ticker": "3231.TW",
+    "segment": "AI 伺服器組裝",
+    "role": "AI Server ODM / 系統整合",
+    "summary": "緯創是另一個 AI 伺服器組裝關鍵節點，常被拿來觀察出貨、客戶擴單與整機能見度。",
+    "positioning": "用來看 AI server 量產速度、訂單延續性與整體伺服器景氣。",
+    "focus": "AI server 出貨、客戶擴單、整機交付能力。",
+    "keywords": [
+      "AI Server",
+      "ODM",
+      "量產",
+      "交付"
+    ],
+    "watch_items": [
+      "AI 產品營收占比是否持續提升",
+      "新客戶或新平台切入",
+      "伺服器產能擴建進度",
+      "與其他 ODM 的相對競爭力"
+    ],
+    "supply_chain_links": [
+      "與廣達同屬中游 AI 伺服器組裝鏈",
+      "會連到散熱、機殼與電源供應商",
+      "市場常用來交叉比對 AI 出貨趨勢"
+    ],
+    "recent_angles": [
+      "AI server 出貨與產能擴建題材持續受關注",
+      "法人常把緯創與廣達並列比較",
+      "整體 AI server 需求的延續性是估值核心"
+    ],
+    "detail_link": "./company.html?slug=wistron"
+  },
+  {
+    "slug": "avc",
+    "name": "奇鋐",
+    "ticker": "3017.TW",
+    "segment": "散熱、電源與機構件",
+    "role": "散熱模組 / 液冷與熱管理",
+    "summary": "AI 機櫃功耗持續上升，奇鋐代表的是散熱與熱管理升級這一條重要支線。",
+    "positioning": "用來看 AI 機櫃功耗升級、液冷導入與散熱方案變化。",
+    "focus": "液冷、散熱模組、AI 機櫃熱管理。",
+    "keywords": [
+      "液冷",
+      "散熱",
+      "熱管理",
+      "AI 機櫃"
+    ],
+    "watch_items": [
+      "液冷導入速度",
+      "高功耗 AI 機櫃需求",
+      "產品組合向高毛利方案移動",
+      "與雙鴻等散熱供應商的競爭"
+    ],
+    "supply_chain_links": [
+      "下游接 AI 機櫃與整機組裝需求",
+      "常與廣達、緯創的伺服器出貨一起觀察",
+      "若機櫃功耗升高，散熱價值通常更明顯"
+    ],
+    "recent_angles": [
+      "液冷被視為 AI 機房升級的重要主題",
+      "散熱方案升級會帶動 ASP 與毛利想像",
+      "AI 機櫃功耗越高，散熱鏈越受注意"
+    ],
+    "detail_link": "./company.html?slug=avc"
+  },
+  {
+    "slug": "delta-electronics",
+    "name": "台達電",
+    "ticker": "2308.TW",
+    "segment": "散熱、電源與機構件",
+    "role": "電源管理 / 機櫃基礎設施",
+    "summary": "台達電在 AI 基礎設施裡的重要性，來自電源、機房與高功率供電能力，而不只是傳統電源供應。",
+    "positioning": "用來看 AI 資料中心電源需求、機房設備與高功率供電升級。",
+    "focus": "高功率電源、資料中心基礎設施、AI 機櫃供電。",
+    "keywords": [
+      "電源",
+      "資料中心",
+      "高功率",
+      "AI 基礎設施"
+    ],
+    "watch_items": [
+      "AI 資料中心建置需求",
+      "高功率電源產品比重",
+      "資料中心整體投資循環",
+      "與散熱及整機供應鏈的連動"
+    ],
+    "supply_chain_links": [
+      "與散熱供應鏈一起支撐 AI 機櫃升級",
+      "下游連到資料中心與電力設施需求",
+      "可與奇鋐、雙鴻等基礎設施鏈一起觀察"
+    ],
+    "recent_angles": [
+      "AI 資料中心投資擴張有利高功率電源需求",
+      "供電能力與效率是 AI 機櫃升級核心",
+      "機櫃基礎設施的價值正逐步被看見"
+    ],
+    "detail_link": "./company.html?slug=delta-electronics"
+  }
+]

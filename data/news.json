@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "cowos-capacity-expansion",
+    "title": "魏哲家：台積電續擴先進封裝產能，縮小供需差距",
+    "segment": "晶片與先進製程",
+    "companies": ["tsmc"],
+    "source": "中央社 CNA",
+    "published_at": "2025-10-16",
+    "summary": "這則報導直接對應台積電先進封裝與 CoWoS 產能擴充，是觀察 AI 晶片上游節奏的代表新聞。",
+    "impact": "上游產能是否跟得上 AI 晶片需求，會影響整條供應鏈評價。",
+    "link": "https://www.cna.com.tw/news/aie/202510160211.aspx"
+  },
+  {
+    "slug": "ai-server-demand-quanta-wistron",
+    "title": "林百里：未來3年是AI爆發期，廣達非常有優勢",
+    "segment": "AI 伺服器組裝",
+    "companies": ["quanta", "wistron"],
+    "source": "中央社 CNA",
+    "published_at": "2026-01-15",
+    "summary": "這篇可以當作 AI 伺服器 ODM 鏈的代表報導，對照廣達與緯創在中游組裝的景氣感受。",
+    "impact": "中游出貨速度若維持強勁，會連動散熱、電源與零組件供應商。",
+    "link": "https://www.cna.com.tw/news/afe/202601150349.aspx"
+  },
+  {
+    "slug": "liquid-cooling-upgrade",
+    "title": "台達電法說：AI 帶旺今年營運續強，產能吃緊估延續1-2年",
+    "segment": "散熱、電源與機構件",
+    "companies": ["avc", "delta-electronics"],
+    "source": "鉅亨網",
+    "published_at": "2026-02-26",
+    "summary": "這則法說新聞很適合對應基礎設施鏈，因為 AI 資料中心的電源與散熱需求被直接點出來。",
+    "impact": "散熱與供電升級代表 ASP 與毛利結構有機會改善。",
+    "link": "https://news.cnyes.com/news/id/6355322"
+  },
+  {
+    "slug": "csp-capex-watch",
+    "title": "法人看好 2026 年 AI 與通用伺服器持續走強，老 AI 股重啟漲勢",
+    "segment": "AI 伺服器組裝",
+    "companies": ["quanta", "wistron", "delta-electronics"],
+    "source": "經濟日報",
+    "published_at": "2026-01-22",
+    "summary": "這類市場總覽文章適合放在中游供應鏈，因為會同時提到廣達、緯創與 AI 伺服器景氣。",
+    "impact": "中游組裝、電源與機房設備鏈會一起被市場重新定價。",
+    "link": "https://money.udn.com/money/story/5607/9218491"
+  },
+  {
+    "slug": "hbm-and-packaging-bottleneck",
+    "title": "台積電法說前，先進封裝成焦點，台廠卡位 CoWoS",
+    "segment": "晶片與先進製程",
+    "companies": ["tsmc"],
+    "source": "中央社 CNA",
+    "published_at": "2023-10-09",
+    "summary": "這篇雖然較早，但很適合當 CoWoS 與先進封裝瓶頸背景資料，能幫頁面補脈絡。",
+    "impact": "只要瓶頸沒有完全解除，台積電的供應鏈地位就更明顯。",
+    "link": "https://www.cna.com.tw/news/afe/202310090025.aspx"
+  }
+]
