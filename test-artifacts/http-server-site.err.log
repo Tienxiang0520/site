@@ -1,0 +1,6 @@
+::ffff:127.0.0.1 - - [02/Apr/2026 19:21:18] "GET /index.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [02/Apr/2026 19:21:40] "GET /index.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [02/Apr/2026 19:21:40] "GET /style.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [02/Apr/2026 19:21:40] "GET /app.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [02/Apr/2026 19:21:40] "GET /data/companies.json HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [02/Apr/2026 19:21:40] "GET /data/news.json HTTP/1.1" 200 -
